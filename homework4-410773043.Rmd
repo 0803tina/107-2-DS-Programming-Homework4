@@ -292,7 +292,7 @@ validCounts
 
   return(validCounts)
 }
-valid_commit_count("0830peggy","107-2-inclass-practice",4,15,16)
+valid_commit_count
 ```
 
 
